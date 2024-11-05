@@ -1,0 +1,46 @@
+{
+    "Bankrekening": [
+        {
+            "from/to": "jay",
+            "amount": 13.99
+        },
+        {
+            "from/to": "callum",
+            "amount": 4.50
+        },
+        {
+            "from/to": "eryk",
+            "amount": 30
+        },
+        {
+            "from/to": "kjell",
+            "amount": -50
+        },
+        {
+            "from/to": "rens",
+            "amount": -10
+        },
+        {
+            "from/to": "eryk",
+            "amount": -15.99
+        },
+        {
+            "from/to": "silvan",
+            "amount": -20
+        },
+        {
+            "from/to": "adam",
+            "amount": 100000
+        }
+    ],
+    "ZZP-Rekening": [
+        {
+            "from/to": "mc Donalds",
+            "amount": 10000
+        },
+        {
+            "from/to": "Burger king",
+            "amount": -500
+        }
+    ]
+}
